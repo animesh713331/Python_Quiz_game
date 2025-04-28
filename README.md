@@ -90,7 +90,7 @@ What is the capital of France?,Paris,Lyon,Marseille,Nice,A,Geography,Easy
 ## 🧑‍💻 Author
 
 **Animesh Kumar Singh**  
-[GitHub](https://github.com/animesh713331) | aks.gecv27@gmail.com | +91 9508179290
+[GitHub](https://github.com/animesh713331) | aks.gecv27@gmail.com
 
 ---
 
